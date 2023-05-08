@@ -1,6 +1,8 @@
 ## About
 This is a cryptocurrency trading bot that uses mempool analysis to make trades. Sniper bot allows you to be one of the first buys on any token launch. On a token launch there is an initial pump of the price. Buying first and selling at the first peak can make you fast profits.
 
+![alt text](https://github.com/Lak1Lay/mempool-trading-bot/blob/main/screen.png?raw=true)
+
 ## Features
 - Mempool monitoring for liquidity add transactions, Pinksale and DXsale signals
 - Works with Uniswap-V3 like AMMs in most common EVM networks (Uniswap, Pancackeswap, Sushiswap, Quickswap, TraderJoe and etc.)
