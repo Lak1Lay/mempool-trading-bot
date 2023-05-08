@@ -1,5 +1,12 @@
 ## About
-This is a cryptocurrency trading bot that uses mempool analysis to make trades.
+This is a cryptocurrency trading bot that uses mempool analysis to make trades. Sniper bot allows you to be one of the first buys on any token launch. On a token launch there is an initial pump of the price. Buying first and selling at the first peak can make you fast profits.
+
+## Features
+- Mempool monitoring for liquidity add transactions, Pinksale and DXsale signals
+- Works with Uniswap-V3 like AMMs in most common EVM networks (Uniswap, Pancackeswap, Sushiswap, Quickswap, TraderJoe and etc.)
+- Automatic sell based on a user configured profit
+- Honeypot detection
+- Telegram bot notifications
 
 ## Installation
 To install the bot, follow these steps:
@@ -9,10 +16,10 @@ To install the bot, follow these steps:
 ## Usage
 To use the bot, check out settings:
 1. Setup your account `address` and `private key` (not seed)
-2. Setup you `node` address (Quicknode or Moralis)
-3. Add `smart contract address` you wish to buy
-4. Define `minimum amount of liquidity` that should be added to the token before the buy should start
-5. Set amount of `BNB to invest` and `slippage`, `gas limit` will be configured automatically
+2. Setup you `node url` (Quicknode or Moralis)
+3. Add `smart contract address` of token you wish to buy
+4. Define minimum amount of liquidity that should be added to the token before the buy should start
+5. Set amount of BNB to invest and slippage, gas limit will be configured automatically
 6. Enable mempool detection for listening transactions in mempool
 7. Start the bot
 
