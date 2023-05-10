@@ -1,5 +1,5 @@
 ## About
-This is a cryptocurrency trading bot that uses mempool analysis to make trades. Sniper bot allows you to be one of the first buys on any token launch. On a token launch there is an initial pump of the price. Buying first and selling at the first peak can make you fast profits.
+This is a cryptocurrency trading bot that uses mempool analysis to make trades. Sniper bot allows you to be one of the first buys on any token launch. On a token launch there is an initial pump of the price. Buying first and selling at the first peak can make you fast profits. `Its an a public version.`
 
 ![alt text](https://github.com/Lak1Lay/mempool-trading-bot/blob/main/screen.png?raw=true)
 
